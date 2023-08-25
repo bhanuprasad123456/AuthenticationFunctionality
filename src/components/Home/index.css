@@ -1,0 +1,7 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.about {
+  display: flex;
+  flex-direction: center;
+  font-family: 'Roboto';
+}
